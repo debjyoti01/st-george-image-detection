@@ -122,10 +122,10 @@ This Python script aims to classify images as containing St. George or not using
     - Apply the `extract_color_histogram()` function to obtain features for all images.
 
 9. Apply different classification algorithms
-    - Utilize various classifiers and display their accuracy scores and classification reports.
+    - Utilize various classifiers with their diffrent values and display their accuracy scores and classification reports.
 
 10. Select the best classifier
-    - Choose the Random Forest classifier based on its highest accuracy.
+    - Choose the Random Forest classifier based on its highest accuracy and other matrices.
 
 11. Predict using the Random Forest model
     - Use the Random Forest model to predict the label of a new picture.
