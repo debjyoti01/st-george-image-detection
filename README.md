@@ -18,6 +18,8 @@ The solution comprises two Python files:
 1. **process_the_csv_file.ipynb**: this python code Processes the given CSV to a more easy to accessible csv file.
 2. **apply_classification_algorithm.ipynb**: Applies multiple classification algorithms to determine the best performer for this dataset.
 
+**custom_dependency_manager.ipynb** is use to download all nesessory libraries. First run the file to download all libraries.
+
 ### File structure
 ![image](https://github.com/debjyoti01/st-george-image-detection/assets/120040021/ac3735eb-66fb-43cd-979c-4bd41fe79485)
 
