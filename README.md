@@ -21,7 +21,8 @@ The solution comprises two Python files:
 **custom_dependency_manager.ipynb** is use to download all nesessory libraries. First run the file to download all libraries.
 
 ### File structure
-![image](https://github.com/debjyoti01/st-george-image-detection/assets/120040021/ac3735eb-66fb-43cd-979c-4bd41fe79485)
+![image](https://github.com/debjyoti01/st-george-image-detection/assets/120040021/2cce355a-cb2e-4a0b-8683-9adafb78aa7b)
+
 
 All script are done inside 'Data Engineer Test' Folder
 
